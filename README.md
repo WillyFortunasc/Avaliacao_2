@@ -396,3 +396,6 @@ Uma chave estrangeira (FK) é um atributo em uma tabela que referencia a PK de o
 
 | [MySQL Connector](/NBD/Mysqlconnector/) | [Alchemy ORM](/NBD/SqlAlchemy/)   | [db_pedidos.sql](/NBD/Mysqlconnector/db_pedidos.sql)
 | :-------------: | :-----------: | :------------:|
+
+![planta](https://github.com/user-attachments/assets/ad2d2514-2f09-4eaa-a4b6-241c1001db9f)
+
